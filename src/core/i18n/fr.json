@@ -1,0 +1,385 @@
+{
+  "header": {
+    "lang": {
+      "en": "English (en)",
+      "fr": "Français (fr)"
+    }
+  },
+  "home": {
+    "cover": {
+      "title": "Bienvenue au Camping Nature Guillerin",
+      "sub-title": "Discover Our Remote Glamp And Caravan Experience",
+      "action": "Reserve maintenant"
+    },
+    "gallery": {
+      "title": "Restez et Profitez",
+      "sub-title": "Réservez un séjour détente à Guillerin",
+      "content": "Notre camping est situé au sein du parc naturel regional de Millevaches dans le département de la Corrèze en Limousin. Dans un cadre naturel authentique au Coeur de la forêt, des rivières et des collines vous trouverez de nombreuyx sentiers de randonnées et VTT. Nous sommes à dix minutes de route de Sornac et de La Courtine. Vous pourrez profiter du charmant marché de Felletin tous les vendredis matin et visiter la ville d’Aubusson connue pour ses célèbres tapisseries.",
+      "action": "VOIR LA GALERIE"
+    },
+    "accommodation": {
+      "title": "Logement",
+      "sub-title": "glaming | fixed caravans | pitches",
+      "main": {
+        "title": "Nos hébergements",
+        "sub-title": "Quatre logements",
+        "content": {
+          "0": "Notre camping est entouré de forêt pour un séjour détente « retour à la nature ».",
+          "1": "Nous avons quatre caravanes de tourisme fixes, toutes avec terrasse. Les caravanes sont entièrement équipées avec des ustensiles de cuisine, de la literie et des serviettes. Pour les soirées plus fraîches, nous fournissons des couvertures électriques et des radiateurs.",
+          // "2": "Nous avons deux glamps situés sur la terrasse. Ils ont une toilette chimique à l'intérieur. La literie et les serviettes sont fournies.",
+          // "3": "Nous avons également une tente de campagne qui comprend la literie et les serviettes, ainsi que des couvertures électriques pour les soirées plus fraîches. Une cuisine commune est disponible",
+          "4": "Tous les logements ont l'électricité.",
+          // "5": "Nous disposons également d'emplacements pour 6 emplacements avec branchement électrique, que ce soit pour caravanes, camping-cars ou tentes."
+        }
+      },
+      "second": {
+        "title": "Glamping de luxe",
+        "action": "2 disponibles"
+      },
+      "third": {
+        "title": "Emplacements Caravane",
+        "action": "6 disponibles"
+      },
+      "fourth": {
+        "title": "Tente Fixe",
+        "action": "1 disponibles"
+      }
+    },
+    "facilities": {
+      "title": "Installations",
+      "sub-title": "Ce que nous avons sur place",
+      "cards": {
+        "bathrooms": {
+          "title": "Salle de Bain Moderne",
+          "sub-title": "Salles de bains propres et modernes",
+          "content": "Dans l'une de nos granges, nous avons un bloc sanitaire unisexe moderne, composé de 2 toilettes, 2 douches et 2 lavabos. Une baignoire bébé est également disponible. Il y a une machine à laver à l'intérieur et à l'extérieur, un espace couvert pour faire la vaisselle."
+        },
+        "pool": {
+          "title": "Piscine & Aire de Juex",
+          "sub-title": "Piscine et aire de jeux",
+          "content": "Nous avons une petite piscine pour les enfants et les adultes pour se rafraîchir et se baigner. Pour les plus petits, il y a des balançoires, de quoi grimper et un panier de basket. Veuillez noter que les parents doivent être présents à la piscine avec leurs enfants."
+        },
+        "food": {
+          "title": "Repas & Magasin",
+          "sub-title": "Cuisine maison et boutique",
+          "content": "Nous avons un petit magasin de ferme sur place, vendant des boissons, des collations et des produits de première nécessité. Une gamme d'articles faits à la main sont également en vente.\n\nPour ceux qui ne veulent pas cuisiner ou préparer de la nourriture, nous servons des dîners et des petits déjeuners dans les caravanes et les tentes. Les commandes doivent être passées à l'avance. Les paiements par carte sont acceptés."
+        }
+      }
+    }
+  },
+  "accommodation": {
+    "cover": {
+      "title": "Logement",
+      "button": "Reserve maintenant"
+    },
+    "0": {
+      "label": "Glamp safari",
+      "intro": {
+        "title": "Glamp safari",
+        "content": {
+          "0": "Pour une expérience de «glamping» ultime, cette glamp safari spacieuse est située sur une terrasse et est équipée de tout le nécessaire pour des vacances sans stress. Il a une toilette à l'intérieur, une kitchenette attenante avec réfrigérateur, micro-ondes et deux brûleurs à gaz. La literie et les\n\nserviettes sont fournies. Couchages 2 personnes, mais un lit de camp ou un petit lit d'enfant est disponible sur demande. Électricité. Barbecue disponible sur demande."
+        }
+      },
+      "prices": {
+        "title": "Heure d'arrivée",
+        "content": {
+          "0": "Heure d'arrivée : 15h00 - 19h00 (en dehors de ces heures, il faut s'arranger à l'avance)",
+          "1": "Heure de départ : 10h00"
+        }
+      },
+      "peak_season": {
+        "title": "Haute saison : juillet – août",
+        "content": {
+          "0": "Par nuit: €70",
+          "1": "Par semaine: €420"
+        }
+      },
+      "low_season": {
+        "title": "Basse saison : jan – juin et sept – dec",
+        "content": {
+          "0": "Par nuit: €60",
+          "1": "Par semaine: €360"
+        }
+      }
+    },
+    "1": {
+      "label": "Tente Greenfield",
+      "intro": {
+        "title": "Tente Greenfield",
+        "content": {
+          "0": "Pour profiter du plein air, cette tente est parfaite. Elle peut accueillir jusqu'à 4 personnes, mais les lits d'appoint doivent être réservés à l'avance. Literie et serviettes fournies. Électricité. Une cuisine commune est disponible."
+        }
+      },
+      "prices": {
+        "title": "Prix",
+        "content": {
+          "0": "Par nuit: €40",
+          "1": "Par semaine: €240"
+        }
+      },
+      "peak_season": {
+        "title": "Prix",
+        "content": {
+          "0": "Par nuit: €45",
+          "1": "Par semaine: €270"
+        }
+      }
+    },
+    "2": {
+      "label": "Caravane 1",
+      "intro": {
+        "title": "Caravane 1",
+        "content": {
+          "0": "Une caravane de 4 couchages avec terrasse et entièrement équipée pour des vacances sans stress. Elle comprend des toilettes intérieures et une kitchenette avec réfrigérateur, cuisinière à gaz et four micro-ondes. Literie et serviettes fournies. Foyer à l'extérieur pour profiter de l'expérience \"camping\". Barbecue disponible sur demande."
+        }
+      },
+      "prices": {
+        "title": "Heure d'arrivée",
+        "content": {
+          "0": "Heure d'arrivée : 15h00 - 19h00 (en dehors de ces heures, il faut s'arranger à l'avance)",
+          "1": "Heure de départ : 10h00"
+        }
+      },
+      "peak_season": {
+        "title": "Haute saison : juillet – août",
+        "content": {
+          "0": "Par nuit: €60",
+          "1": "Par semaine: €360"
+        }
+      },
+      "low_season": {
+        "title": "Basse saison : jan – juin et sept – dec",
+        "content": {
+          "0": "Par nuit: €50",
+          "1": "Par semaine: €300"
+        }
+      }
+    },
+    "3": {
+      "label": "Caravane 2",
+      "intro": {
+        "title": "Caravane 2",
+        "content": {
+          "0": "Une caravane de 4 couchages avec terrasse et entièrement équipée pour des vacances sans stress. Elle est livré avec des toilettes intérieures et un réfrigérateur. Il dispose également d'une kitchenette attenante avec cuisinière à gaz et four micro-ondes. Literie et serviettes fournies. Barbecue disponible sur demande."
+        }
+      },
+      "prices": {
+        "title": "Heure d'arrivée",
+        "content": {
+          "0": "Heure d'arrivée : 15h00 - 19h00 (en dehors de ces heures, il faut s'arranger à l'avance)",
+          "1": "Heure de départ : 10h00"
+        }
+      },
+      "peak_season": {
+        "title": "Haute saison : juillet – août",
+        "content": {
+          "0": "Par nuit: €60",
+          "1": "Par semaine: €360"
+        }
+      },
+      "low_season": {
+        "title": "Basse saison : jan – juin et sept – dec",
+        "content": {
+          "0": "Par nuit: €50",
+          "1": "Par semaine: €300"
+        }
+      }
+    },
+    "4": {
+      "label": "Caravane 3",
+      "intro": {
+        "title": "Caravane 3",
+        "content": {
+          "0": "Une caravane 3 places avec terrasse et entièrement équipée pour des vacances sans stress. Elle est livré avec des toilettes intérieures, une douche, un réfrigérateur/congélateur et une cuisinière à gaz. Attaché à la caravane il y a une kitchenette supplémentaire avec micro-ondes et petit four portable.",
+          "1": " Une chambre supplémentaire à l'extérieur offre un couchage pour deux personnes, offrant un espace de couchage pour 5 personnes au total. Literie et serviettes fournies. Foyer à l'extérieur pour profiter de l'expérience \"camping\". Barbecue disponible sur demande."
+        }
+      },
+      "prices": {
+        "title": "Heure d'arrivée",
+        "content": {
+          "0": "Heure d'arrivée : 15h00 - 19h00 (en dehors de ces heures, il faut s'arranger à l'avance)",
+          "1": "Heure de départ : 10h00"
+        }
+      },
+      "peak_season": {
+        "title": "Haute saison : juillet – août",
+        "content": {
+          "0": "Par nuit: €70",
+          "1": "Par semaine: €420"
+        }
+      },
+      "low_season": {
+        "title": "Basse saison : jan – juin et sept – dec",
+        "content": {
+          "0": "Par nuit: €60",
+          "1": "Par semaine: €360"
+        }
+      }
+    },
+    "5": {
+      "label": "Caravane 4",
+      "intro": {
+        "title": "Caravane 4",
+        "content": {
+          "0": "Une caravane de 4 couchages avec terrasse et entièrement équipée pour des vacances sans stress. Elle comprend des toilettes intérieures et une kitchenette avec réfrigérateur, cuisinière à gaz et four micro-ondes. Literie et serviettes fournies. Foyer à l'extérieur pour profiter de l'expérience \"camping\". Barbecue disponible sur demande."
+        }
+      },
+      "prices": {
+        "title": "Heure d'arrivée",
+        "content": {
+          "0": "Heure d'arrivée : 15h00 - 19h00 (en dehors de ces heures, il faut s'arranger à l'avance)",
+          "1": "Heure de départ : 10h00"
+        }
+      },
+      "peak_season": {
+        "title": "Haute saison : juillet – août",
+        "content": {
+          "0": "Par nuit: €60",
+          "1": "Par semaine: €360"
+        }
+      },
+      "low_season": {
+        "title": "Basse saison : jan – juin et sept – dec",
+        "content": {
+          "0": "Par nuit: €50",
+          "1": "Par semaine: €300"
+        }
+      }
+    },
+    "6": {
+      "label": "Camping-car/tente",
+      "intro": {
+        "title": "Camping-car/tente",
+        "content": {
+          "0": "Notre site dispose d'une disponibilité pour 6 caravanes/camping-cars. Chaque emplacement est équipé d'un branchement électrique et des points d'eau sont à disposition. L'électricité est incluse dans le prix. Les emplacements sont légèrement surélevés, ce qui donne de belles vues sur la forêt.",
+          "1": "Les emplacements sont à quelques pas de notre bloc sanitaire unisexe situé dans l'une de nos granges. Les caravanes peuvent décharger, mais malheureusement aucune installation pour les camping-cars.",
+          "2": " Des points de vidange municipaux pour les camping-cars sont disponibles à La Courtine, à 10 minutes en voiture de notre site."
+        }
+      },
+      "prices": {
+        "title": "Info",
+        "content": {
+          "0": "Electrical hookup",
+          "1": "Dogs are welcome and free of charge, but must be kept on a lead."
+        }
+      },
+      "peak_season": {
+        "title": "Haute saison : juillet – août",
+        "content": {
+          "0": "Par nuit: €25",
+          "1": "Par semaine: €150"
+        }
+      },
+      "low_season": {
+        "title": "Basse saison : jan – juin et sept – dec",
+        "content": {
+          "0": "Par nuit: €20",
+          "1": "Par semaine: €120"
+        }
+      }
+    },
+    "7": {
+      "label": "Restez et Profitez",
+      "intro": {
+        "title": "Restez et Profitez",
+        "content": {
+          "0": "Notre camping est situé au sein du parc naturel regional de Millevaches dans le département de la Corrèze en Limousin. Dans un cadre naturel authentique au Coeur de la forêt, des rivières et des collines vous trouverez de nombreuyx sentiers de randonnées et VTT. Nous sommes à dix minutes de route de Sornac et de La Courtine. Vous pourrez profiter du charmanyt marché de Felletin tous les vendredis matin et visiter la ville d’Aubusson connue pour ses célèbres tapisseries.",
+          "1": "Les chiens (et chats) sont les bienvenus et gratuits, mais doivent être tenus en laisse.\n\nNous avons des chiens, des chats et des poulets élevés en liberté très sympathiques, mais ils n'aiment pas être poursuivis. Veuillez vous assurer de fournir la literie de votre animal car les chiens ne sont pas autorisés sur le lit ou les sièges.",
+          "2": "Le wifi est disponible à l'extérieur du bloc sanitaire. Comme il s'agit d'un camping, la portée wi-fi ne couvre pas toute la zone, mais nous espérons que les gens viennent profiter du plein air et de la nature plutôt que de s'asseoir sur Internet."
+        }
+      },
+      "prices": {
+        "title": "PISCINE & AIRE DE JEUX",
+        "content": {
+          "0": "Nous avons une petite piscine pour les enfants et les adultes pour se rafraîchir et se baigner. Pour les plus petits, il y a des balançoires, de quoi grimper et un panier de basket. Veuillez noter que les parents doivent être présents à la piscine avec leurs enfants."
+        }
+      },
+      "peak_season": {
+        "title": "REPAS & MAGASIN",
+        "content": {
+          "0": "Nous avons un petit magasin de ferme sur place, vendant des boissons, des collations et des produits de première nécessité. Une gamme d'articles faits à la main sont également en vente.",
+          "1": "Pour ceux qui ne veulent pas cuisiner ou préparer de la nourriture, nous servons des dîners et des petits déjeuners dans les caravanes et les tentes. Les commandes doivent être passées à l'avance.",
+          "2": "Les paiements par carte sont acceptés."
+        }
+      },
+      "low_season": {
+        "title": "SALLE DE BAIN MODERNE",
+        "content": {
+          "0": "Dans l'une de nos granges, nous avons un bloc sanitaire unisexe moderne, composé de 2 toilettes, 2 douches et 2 lavabos. Une baignoire bébé est également disponible. Il y a une machine à laver à l'intérieur et à l'extérieur, un espace couvert pour faire la vaisselle."
+        }
+      }
+    },
+    "8": {
+      "label": "Glamp Bohème",
+      "intro": {
+        "title": "Glamp Bohème",
+        "content": {
+          "0": "Pour une expérience de «glamping» ultime, ce glamp spacieux est situé sur une terrasse en bois. Il y a des toilettes à l'intérieur, un ventilateur pour les soirées plus chaudes et une couverture électrique pour les soirées plus fraîches.",
+          "1": "Café/thé disponible à l'intérieur. La literie et les serviettes sont fournies. 2 couchages, mais un lit de camp ou un petit lit d'enfant est disponible sur demande. A l'extérieur, un belvédère. Une cuisine de camp commune. Électricité. Barbecue disponible sur demande"
+        }
+      },
+      "prices": {
+        "title": "Heure d'arrivée",
+        "content": {
+          "0": "Heure d'arrivée : 15h00 - 19h00 (en dehors de ces heures, il faut s'arranger à l'avance)",
+          "1": "Heure de départ : 10h00"
+        }
+      },
+      "peak_season": {
+        "title": "Haute saison : juillet – août",
+        "content": {
+          "0": "Par nuit: €65",
+          "1": "Par semaine: €390"
+        }
+      },
+      "low_season": {
+        "title": "Basse saison : avril – juin et sept – novembre",
+        "content": {
+          "0": "Par nuit: €55",
+          "1": "Par semaine: €330"
+        }
+      }
+    }
+  },
+  "camping": {
+    "section1": {
+      "subHeading": "Découvrez la magie du camping à Guillerin",
+      "paragraph": "Découvrez la beauté de la nature dans le parc naturel Périgord-Limousin, Corrèze, la destination ultime pour le camping. Plongez-vous dans des paysages sereins, des installations modernes et des expériences inoubliables. Tentes, caravanes et camping-cars sont tous les bienvenus, disponibles avec des branchements électriques. Réservez votre emplacement dès maintenant !"
+    },
+    "section2": {
+      "subHeading": "Votre évasion parfaite dans la nature",
+      "paragraph": "Chez Guillerin, nous sommes fiers de proposer une expérience de camping unique à Guillerin. Notre camping est une destination prisée des amateurs de nature et des familles. Niché au milieu de verdure luxuriante et de randonnées à couper le souffle, Guillerin est un refuge idyllique pour ceux qui recherchent tranquillité et aventure."
+    },
+    "section3": {
+      "subHeading": "Installations et équipements",
+      "bullet1": "Toilettes et douches",
+      "bullet2": "Espaces pique-nique avec des barbecues",
+      "bullet3": "Foyers pour des soirées chaleureuses sous les étoiles",
+      "bullet4": "Accès à l'eau douce et robinets pratiques",
+      "bullet5": "Boutique de camping sur place avec les produits essentiels",
+      "bullet6": "Espaces adaptés aux animaux pour vos compagnons à quatre pattes"
+    },
+    "section4": {
+      "subHeading": "Règles et directives du camping",
+      "paragraph": "Afin d'assurer une expérience de camping sûre et agréable pour tous, nous demandons aimablement à nos campeurs de respecter les directives suivantes :",
+      "bullet1": "Maintenez les niveaux de bruit au minimum pendant les heures de tranquillité (22h00 - 7h00)",
+      "bullet2": "Éteignez complètement les feux de camp avant de vous coucher",
+      "bullet3": "Respectez la faune et ne cueillez pas les fleurs",
+      "bullet4": "Jetez les déchets dans les récipients désignés et aidez-nous à garder le camping propre",
+      "bullet5": "Soyez respectueux de l'environnement en recyclant vos déchets et en éteignant les lumières lorsque vous ne les utilisez pas",
+      "bullet6": "Veuillez garder les chiens en laisse"
+    },
+    "bookBtn": "Emplacement du livre"
+  },  
+  "footer": {
+    "contact": "Informations de contact",
+    "location" : "EMPLACEMENT",
+    "firstLine": "4 Guillerin",
+    "secondLine": "Sornac",
+    "thirdLine": "19290",
+    "fourthLine": "France",
+    "email": "Email: guillerin.camp@outlook.com",
+    "tel": "Tel: (0033) 987 88 3535",
+    "mob": "Mob: (0033) 645500779"
+  }
+}

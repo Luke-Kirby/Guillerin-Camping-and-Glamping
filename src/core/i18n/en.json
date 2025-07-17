@@ -1,0 +1,386 @@
+{
+  "header": {
+    "lang": {
+      "en": "English (en)",
+      "fr": "Français (fr)"
+    }
+  },
+  "home": {
+    "cover": {
+      "title": "Welcome to Nature Camping Guillerin",
+      "sub-title": "Discover Our Remote Glamp And Caravan Experience",
+      "action": "Book Now"
+    },
+    "gallery": {
+      "title": "Stay and Enjoy",
+      "sub-title": " Book a relaxing stay at Guillerin",
+      "content": "Our campsite is situated in the heart of Millevache National Park, in the department of Correze in Limousin. Surrounded by forests, rivers and hills, there are many forest paths and small quiet roads ideal for hiking and cycling. We are 10 minutes’ drive away from both Sornac and La Courtine. Felletin has a wonderful morning market every Friday and Aubusson is world famous for its tapestries.",
+      "action": "VIEW GALLERY"
+    },
+    "accommodation": {
+      "title": "Accommodation Types",
+      "sub-title": "glaming | fixed caravans | pitches",
+      "main": {
+        "title": "Our Accommodation",
+        "sub-title": "Four accommodations",
+        "content": {
+          "0": "Our campsite is surrounded by forest for a relaxing ‘back to nature’ stay.",
+          "1": "We have four fixed touring caravans, all with decking. The caravans are fully equipped with kitchen ware, bedding and towels. For the cooler evenings, we provide electric blankets and heaters.",
+          // "2": "We have two glamps situated on decking.  They have a chemical toilet inside.  Bedding and towels are provided.",
+          // "3": "We also have a Field tent which includes bedding and towels, as well as electric blankets for the cooler evenings. A communal kitchen is available.",
+          "4": "All the accommodation have electricity.",
+          // "5": "We also have spaces for 6 electric hook-up pitches, whether for caravans, motorhomes or tents."
+        },
+        "action": "from £45/night"
+      },
+      "second": {
+        "title": "Luxury Glamping",
+        "action": "2 Available"
+      },
+      "third": {
+        "title": "Pitches",
+        "action": "6 Available"
+      },
+      "fourth": {
+        "title": "Fixed Tents",
+        "action": "1 Available"
+      }
+    },
+    "facilities": {
+      "title": "Facilities",
+      "sub-title": "What we have on site",
+      "cards": {
+        "bathrooms": {
+          "title": "Modern Bathrooms",
+          "sub-title": "Clean and Modern bathrooms",
+          "content": "In one of our barns, we have a modern unisex shower block, consisting of 2 toilets, 2 showers and 2 wash basins. A baby bath is also available. There is a washing machine inside and on the outside, a covered dish washing up area."
+        },
+        "pool": {
+          "title": "Pool & Play area",
+          "sub-title": "Pool and climbing frame",
+          "content": "We have a small swimming pool for both children and adults to cool down in and have a swim. For the little ones, there are some swings, something to climb on and a basketball hoop. Please be aware that parents have to be present at the swimming pool with their children."
+        },
+        "food": {
+          "title": "Food & Shop",
+          "sub-title": "Home made food and shop",
+          "content": "We have a small farm shop on-site, selling drinks, snacks and basic necessities. A range of handmade items are also for sale. For those not wanting to cook or prepare food, we serve dinners and breakfasts at the caravans and tents. We accept card payments."
+        }
+      }
+    }
+  },
+  "accommodation": {
+    "cover": {
+      "title": "Accommodation",
+      "button": "Book Now"
+    },
+    "0": {
+      "label": "Safari Glamp",
+      "intro": {
+        "title": "Safari Glamp",
+        "content": {
+          "0": "For the ultimate ‘glamping’ experience, this spacious safari glamp is located on a decked area and is equipped with all the necessities for a stress-free holiday. It has a toilet inside, attached kitchenette with fridge, microwave and two gas burners. Bedding and towels are provided. Sleeps 2, but a camping cot or small child’s bed is available on request. Electricity. BBQ available on request"
+        }
+      },
+      "prices": {
+        "title": "Check in",
+        "content": {
+          "0": "Check in time : 3 pm – 7 pm (Outside these hours need to be arranged beforehand)",
+          "1": "Check out time: 10 am"
+        }
+      },
+      "peak_season": {
+        "title": "Peak Season: July – August",
+        "content": {
+          "0": "Per night: €70",
+          "1": "Per week: €420"
+        }
+      },
+      "low_season": {
+        "title": "Low season: Jan – June and Sept – December",
+        "content": {
+          "0": "Per night: €60",
+          "1": "Per week: €360"
+        }
+      }
+    },
+    "1": {
+      "label": "Greenfield Tent",
+      "intro": {
+        "title": "Greenfield Tent",
+        "content": {
+          "0": "To experience the outdoors, this tent is perfect. It can sleep up to 4 people, but extra beds have to be arranged beforehand. Bedding and towels provided. Electricity. A communal kitchen is available."
+        }
+      },
+      "prices": {
+        "title": "Price",
+        "content": {
+          "0": "Per night: €40",
+          "1": "Per week: €240"
+        }
+      },
+      "peak_season": {
+        "title": "Price",
+        "content": {
+          "0": "Per night: €45",
+          "1": "Per week: €270"
+        }
+      }
+    },
+    "2": {
+      "label": "Touring Caravan 1",
+      "intro": {
+        "title": "Touring caravan 1",
+        "content": {
+          "0": "A 4-berth caravan with decking and fully equipped for a stress free holiday. It comes with an inside toilet and kitchenette with fridge, gas hob and microwave. Bedding and towels provided. Fire pit on the outside to enjoy the ‘camping’ experience. BBQ available on request."
+        }
+      },
+      "prices": {
+        "title": "Check in",
+        "content": {
+          "0": "Check in time : 3 pm –7 pm (Outside these hours need to be arranged beforehand)",
+          "1": "Check out time: 10 am"
+        }
+      },
+      "peak_season": {
+        "title": "Peak Season: July – August",
+        "content": {
+          "0": "Per night: €60",
+          "1": "Per week: €360"
+        }
+      },
+      "low_season": {
+        "title": "Low season: Jan – June and Sept – December",
+        "content": {
+          "0": "Per night: €50",
+          "1": "Per week: €300"
+        }
+      }
+    },
+    "3": {
+      "label": "Touring Caravan 2",
+      "intro": {
+        "title": "Touring Caravan 2",
+        "content": {
+          "0": "A 4-berth caravan with decking and fully equipped for a stress free holiday. It comes with an inside toilet and fridge. It also has an attached kitchenette with gas hob and microwave. Bedding and towels provided. BBQ available on request."
+        }
+      },
+      "prices": {
+        "title": "Check in",
+        "content": {
+          "0": "Check in time : 3 pm –7 pm (Outside these hours need to be arranged beforehand)",
+          "1": "Check out time: 10 am"
+        }
+      },
+      "peak_season": {
+        "title": "Peak Season: July – August",
+        "content": {
+          "0": "Per night: €60",
+          "1": "Per week: €360"
+        }
+      },
+      "low_season": {
+        "title": "Low season: Jan – June and Sept – December",
+        "content": {
+          "0": "Per night: €50",
+          "1": "Per week: €300"
+        }
+      }
+    },
+    "4": {
+      "label": "Touring Caravan 3",
+      "intro": {
+        "title": "Touring Caravan 3",
+        "content": {
+          "0": "A 3-berth caravan with decking and fully equipped for a stress free holiday. It comes with an inside toilet, shower, fridge/freezer and gas hob.",
+          "1": "Attached to the caravan is an extra kitchenette with microwave and small portable oven. An extra bedroom outside provide bedding for two people, providing sleeping space for 5 people altogether. Bedding and towels provided. Fire pit on the outside to enjoy the ‘camping’ experience. BBQ available on request."
+        }
+      },
+      "prices": {
+        "title": "Check in",
+        "content": {
+          "0": "Check in time : 3 pm –7 pm (Outside these hours need to be arranged beforehand)",
+          "1": "Check out time: 10 am"
+        }
+      },
+      "peak_season": {
+        "title": "Peak Season: July – August",
+        "content": {
+          "0": "Per night: €70",
+          "1": "Per week: €420"
+        }
+      },
+      "low_season": {
+        "title": "Low season: Jan – June and Sept – December",
+        "content": {
+          "0": "Per night: €60",
+          "1": "Per week: €360"
+        }
+      }
+    },
+    "5": {
+      "label": "Touring caravan 4",
+      "intro": {
+        "title": "Touring caravan 4",
+        "content": {
+          "0": "A 4-berth caravan with decking and fully equipped for a stress free holiday. It comes with an inside toilet and kitchenette with fridge, gas hob and microwave. Bedding and towels provided. Fire pit on the outside to enjoy the ‘camping’ experience. BBQ available on request."
+        }
+      },
+      "prices": {
+        "title": "Check in",
+        "content": {
+          "0": "Check in time : 3 pm –7 pm (Outside these hours need to be arranged beforehand)",
+          "1": "Check out time: 10 am"
+        }
+      },
+      "peak_season": {
+        "title": "Peak Season: July – August",
+        "content": {
+          "0": "Per night: €60",
+          "1": "Per week: €360"
+        }
+      },
+      "low_season": {
+        "title": "Low season: Jan – June and Sept – December",
+        "content": {
+          "0": "Per night: €50",
+          "1": "Per week: €300"
+        }
+      }
+    },
+    "6": {
+      "label": "Caravan/Campervan/Tent pitches",
+      "intro": {
+        "title": "Caravan/Campervan/Tent pitches",
+        "content": {
+          "0": "Our site has availability for 6 caravan/campervans. Each pitch has electrical hook-up and water taps are available. Electricity is included in the price. Pitches are slightly elevated which give lovely views of the forest.",
+          "1": "The pitches are a very short walk to our brand new unisex shower block situated in one of our barns. It has 2 showers, 2 toilets, 2 wash basins and a baby bath. There is also a washing machine available and on the outside is a covered washing up area. Caravans are able to discharge, but unfortunately no facility for campervans.",
+          "2": "Municipal discharge point for campervans in La Courtine, a 10 -15minute drive from our site.\n\n"
+        }
+      },
+      "prices": {
+        "title": "Info",
+        "content": {
+          "0": "Electrical hookup",
+          "1": "Dogs are welcome and free of charge, but must be kept on a lead."
+        }
+      },
+      "peak_season": {
+        "title": "Peak Season: July – August",
+        "content": {
+          "0": "Per night: €25",
+          "1": "Per week: €150"
+        }
+      },
+      "low_season": {
+        "title": "Low season: Jan – June and Sept – December",
+        "content": {
+          "0": "Per night: €20",
+          "1": "Per week: €120"
+        }
+      }
+    },
+    "7": {
+      "label": "Facilities",
+      "intro": {
+        "title": "The Site",
+        "content": {
+          "0": "Our campsite is situated in the heart of Millevache National Park, in the department of Correze in Limousin. Surrounded by forests, rivers and hills, there are many forest paths and small quiet roads ideal for hiking and cycling. We are 10 minutes’ drive away from both Sornac and La Courtine. Felletin has a wonderful morning market every Friday and Aubusson is world famous for its tapestries",
+          "1": "Dogs (and cats) are welcome and free of charge, but have to be kept on a lead. We have dogs, cats and very friendly free range chickens, but they don’t like to be chased. Please ensure that you provide your pet’s bedding as dogs are not allowed on the bed or seats",
+          "2": "Wi-fi is available outside the shower block. As this is a campsite, wi-fi range does not cover the whole area, but we hope people come to enjoy the outdoors and nature rather than sit on the internet."
+        }
+      },
+      "prices": {
+        "title": "Pool & Playground",
+        "content": {
+          "0": "We have a small swimming pool for both children and adults to cool down in and have a swim. For the little ones, there are some swings, something to climb on and a basketball hoop. Please be aware that parents have to be present at the swimming pool with their children."
+        }
+      },
+      "peak_season": {
+        "title": "Food & Shop",
+        "content": {
+          "0": "We have a small farm shop on-site, selling drinks, snacks and basic necessities. A range of handmade items are also for sale.",
+          "1": "For those not wanting to cook or prepare food, we serve dinners and breakfasts at the caravans and tents. Orders have to be given in advance.",
+          "2": "Card payments are accepted."
+        }
+      },
+      "low_season": {
+        "title": "Modern Bathrooms",
+        "content": {
+          "0": "In one of our barns, we have a modern unisex shower block, consisting of 2 toilets, 2 showers and 2 wash basins. A baby bath is also available. There is a washing machine inside and on the outside, a covered dish washing up area."
+        }
+      }
+    },
+    "8": {
+      "label": "Bohemin Glamp",
+      "intro": {
+        "title": "Bohemin Glamp",
+        "content": {
+          "0": "For the ultimate ‘glamping’ experience, this spacious  glamp is located on a decked area. It has a toilet inside, a fan for the warmer evenings and an electric blanket for the cooler evenings.",
+          "1": "Coffee/tea making available inside. Bedding and towels are provided. Sleeps 2, but a camping cot or small child’s bed is available on request. On the outside, a gazebo. A shared camp kitchen. Electricity. BBQ available on request"
+        }
+      },
+      "prices": {
+        "title": "Check in",
+        "content": {
+          "0": "Check in time : 3 pm – 7 pm (Outside these hours need to be arranged beforehand)",
+          "1": "Check out time: 10 am"
+        }
+      },
+      "peak_season": {
+        "title": "Peak Season: July – August",
+        "content": {
+          "0": "Per night: €65",
+          "1": "Per week: €390"
+        }
+      },
+      "low_season": {
+        "title": "Low season: April – June and Sept – November",
+        "content": {
+          "0": "Per night: €55",
+          "1": "Per week: €330"
+        }
+      }
+    }
+  },
+  "camping": {
+    "section1": {
+      "subHeading": "Experience the magic of camping at Guillerin",
+      "paragraph": "Discover the beauty of nature in Perigord-Limousin natural park, Correze, the ultimate destination for camping. Immerse yourself in serene landscapes, modern facilities, and unforgettable experiences. Tents, caravans and campervans all welcome, avaliable with electric pitches. Book your spot now!"
+    },
+    "section2": {
+      "subHeading": "Your perfect escape into nature",
+      "paragraph": "At Guillerin, we take pride in offering a one-of-a-kind camping experience in Guillerin. Our campsite is a beloved destination for nature enthusiasts and families alike. Nestled amidst lush greenery and breathtaking hikes, Guillerin is an idyllic retreat for those seeking tranquility and adventure."
+    },
+    "section3": {
+      "subHeading": "Facilities and amenities",
+      "bullet1": "Toilets and showers",
+      "bullet2": "Picnic areas with barbecue grills",
+      "bullet3": "Campfire pits for cozy evenings under the stars",
+      "bullet4": "Freshwater access and convenient taps",
+      "bullet5": "On-site camp shop with essentials",
+      "bullet6": "Pet-friendly areas for your furry companions"
+    },
+    "section4": {
+      "subHeading": "Camping rules and guidelines",
+      "paragraph": "To ensure a safe and enjoyable camping experience for all, we kindly request our campers to abide by the following guidelines:",
+      "bullet1": "Keep noise levels to a minimum during quiet hours (10:00 PM - 7:00 AM)",
+      "bullet2": "Extinguish campfires completely before retiring for the night",
+      "bullet3": "Respect wildlife and please do not pick the flowers",
+      "bullet4": "Dispose of waste in designated receptacles and help us keep the campsite clean",
+      "bullet5": "Please be eco friendly by recycling your waste and switching off lights when not in use",
+      "bullet6": "Please keep dogs on a leash"
+    },
+    "bookBtn": "Book pitch"
+  },
+  "footer": {
+    "contact": "Contact Info",
+    "location" : "Location",
+    "firstLine": "4 Guillerin",
+    "secondLine": "Sornac",
+    "thirdLine": "19290",
+    "fourthLine": "France",
+    "email": "Email: guillerin.camp@outlook.com",
+    "tel": "Tel: (0033) 987 88 3535",
+    "mob": "Mob: (0033) 645500779"
+  }
+}
